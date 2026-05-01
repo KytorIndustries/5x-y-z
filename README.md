@@ -28,7 +28,7 @@ Fully assembled and QC tested 5X-Y-Z adapters can be [purchased here](https://ky
 
 ## PCB Revision History
 - Ver 1.0 - First production version.
-- Ver 1.1 - Trace rerouting, no functional or fit/form/finish changes. Initial Open Source Release.
+- Ver 1.1 - Trace rerouting, no fit/form/function changes. Initial Open Source Release.
 
 ## Shell Revision History
 - Rev 1 - First production version
