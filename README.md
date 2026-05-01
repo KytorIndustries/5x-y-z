@@ -15,8 +15,8 @@ Fully assembled and QC tested 5X-Y-Z adapters can be [purchased here](https://ky
 - **Photos**
 
 ## Parts Required
-- [Male SCART Connector]
-- [Female SCART Connector]
+- Male SCART Connector
+- Female SCART Connector
 - [2x M3x10 Screws](https://amzn.to/43MXFzS)
 - [RetroTINK-5X Pro](https://www.retrotink.com/product-page/5x-pro)
 
