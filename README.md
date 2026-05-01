@@ -1,5 +1,5 @@
 # 5X-Y-Z
-If you are using the RetroTINK-5X Pro with a SCART input cable, this adapter rotates the SCART female plug 90° on the Y-axis and flips 90° on the Z-axis for a simple and clean cable management path in your entertainment system. The 5X-Y-Z comes fully assembled with a 3D printed shell. No lag, no added processing, just plug and play!
+If you are using the RetroTINK-5X Pro with a SCART input cable, this adapter rotates the SCART female plug 90° on the Y-axis and flips 90° on the Z-axis for a simple and clean cable management path in your entertainment system. The 5X-Y-Z also has a 3D printed shell. No lag, no added processing, just plug and play!
 
 Fully assembled and QC tested 5X-Y-Z adapters can be [purchased here](https://kytor.com/store/product/5x-y-z/).
 
